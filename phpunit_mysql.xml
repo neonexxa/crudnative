@@ -9,7 +9,7 @@
 
     <testsuites>
         <testsuite name="Crud native test Suite">
-            <directory>./</directory>
+            <directory>./dbsetup.php</directory>
         </testsuite>
     </testsuites>
 
