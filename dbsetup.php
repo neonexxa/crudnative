@@ -16,4 +16,7 @@ class dbsetup extends PHPUnit_Framework_TestCase
         $this->pdo->query("DROP TABLE tweets");
     }
     
+    public function testOnePlusOne() {
+        $this->assertEquals(1+1,2);
+    }
 }
