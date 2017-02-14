@@ -10,5 +10,8 @@ php native crud ~ learning crud with native PHP
 Contributed by [Neonexxa](https://github.com/neonexxa/)
 Completed. Closed
 
+# Testing
+Continuous testing with php unit.
+
 # LICENSE
 [License MIT](https://github.com/neonexxa/crudnative/blob/master/LICENSE)
