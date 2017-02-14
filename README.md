@@ -2,3 +2,9 @@
 
 # crudnative
 php native crud ~ learning crud with native PHP
+
+# Development 
+Completed. Closed
+
+# LICENSE
+[License MIT](https://github.com/neonexxa/crudnative/blob/master/LICENSE)
