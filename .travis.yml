@@ -9,4 +9,4 @@ services:
 before_install:
   - mysql -e 'CREATE DATABASE IF NOT EXISTS crudnative;'
 
-script: phpunit secret.php
+script: secret.php
