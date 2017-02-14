@@ -5,6 +5,9 @@ php:
   - hhvm
 services:
   - mysql
-  
+
 before_install:
   - mysql -e 'CREATE DATABASE IF NOT EXISTS crudnative;'
+
+script: phpunit secret.php
+script: phpunit config.php
