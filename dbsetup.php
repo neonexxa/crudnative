@@ -1,5 +1,5 @@
 <?php
-class HelloWorldTest extends PHPUnit_Framework_TestCase
+class dbsetup extends PHPUnit_Framework_TestCase
 {
     /**
      * @var PDO
