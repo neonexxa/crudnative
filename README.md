@@ -3,6 +3,9 @@
 # Crudnative
 php native crud ~ learning crud with native PHP
 
+# Templete included
+- show,create,delete,update
+
 # Development 
 Contributed by [Neonexxa](https://github.com/neonexxa/)
 Completed. Closed
